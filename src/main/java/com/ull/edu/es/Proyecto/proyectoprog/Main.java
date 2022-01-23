@@ -2,8 +2,6 @@
 package ull.edu.es.Proyecto;
 
 
-
-
 import interfaces.Ventana;
 
 
